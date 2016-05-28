@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TPDM_ProyFinal_ITTCheka</string>
+
+    <array name="elementos">
+        <item>Mapa</item>
+        <item>Subir Datos a Servidor</item>
+        <item>Cerrar Sesión</item>
+    </array>
+    <array name="aulas">
+        <item>UVP1-Luis Rodriguez-9:00</item>
+
+    </array>
+    <array name="opciones">
+        <item>Asistio</item>
+        <item>No Asistio</item>
+        <item>Hay Maestro pero no Alumnos</item>
+        <item>Hay Alumnos pero no Maestros</item>
+    </array>
+</resources>
